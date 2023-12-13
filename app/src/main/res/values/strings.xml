@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string-array name="Gender">
+
+        <item> Gender </item>
+        <item> Female </item>
+        <item> Male </item>
+
+    </string-array>
+
+    <style name="Spinner" parent="Widget.AppCompat.Light.DropDownItem.Spinner">
+
+
+        <item name="android:drawableLeft">@drawable/ic_baseline_transgender_24</item>
+
+    </style>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
